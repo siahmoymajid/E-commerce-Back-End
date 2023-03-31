@@ -61,7 +61,7 @@ router.post("/", (req, res) => {
 router.put("/:id", (req, res) => {
   // update product data
   Product.update(req.body,{where:{id:req.params.id}}).then(categories=>res.json(categories)).catch((err)=>res.status(500).json(err))
-});
+
   
     .then((product) => {
       // find all associated tags from ProductTag
