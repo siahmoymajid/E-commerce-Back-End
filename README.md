@@ -16,3 +16,7 @@ I am also able to create, update, and delete data in my database
 [Mysql](./Develop/images/mysql1.PNG)
 [Mysql](./Develop/images/mysql2.PNG)
 [Mysql](./Develop/images/mysql3.PNG)
+
+## Note
+
+ASKABC and tutor has assisted me with this assignment
