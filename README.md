@@ -12,6 +12,9 @@ I am also able to create, update, and delete data in my database
 [Video demo]()
 
 ## Screenshot
-[Mysql](./Develop/db/images/mysq1.PNG)
+[](./Develop/images/mysql1.PNG)
+[](./Develop/images/mysql2.PNG)
+[](./Develop/images/mysql3.PNG)
+
 
 
