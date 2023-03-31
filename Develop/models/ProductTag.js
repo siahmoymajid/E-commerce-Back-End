@@ -8,7 +8,7 @@ ProductTag.init(
   {
     // define columns
     id:{
-      type:DataTypes.INTEGER
+      type:DataTypes.INTEGER,
       allowNull:false,
       primaryKey:true,
       autoIncrement:true,
@@ -29,6 +29,7 @@ ProductTag.init(
       }
     },
   },
+  
   {
     sequelize,
     timestamps: false,
